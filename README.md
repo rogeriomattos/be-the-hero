@@ -17,6 +17,7 @@ Frontend Web            |  Mobile
 
 ### Tecnologias usadas
 - Backend em [Node.js](https://nodejs.org/en/)
+- Banco de dados [SQLite](https://www.sqlite.org/index.html)
 - Mobile em [React Native](https://reactnative.dev/) e [Expo](https://expo.io/)
 - Frontend Web em [React](https://pt-br.reactjs.org/)
 
