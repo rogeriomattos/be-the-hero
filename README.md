@@ -9,18 +9,16 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 
-<br>
-
-### Tecnologias usadas
-- Backend em [Node.js](https://nodejs.org/en/)
-- Mobile em [React Native](https://reactnative.dev/) e [Expo](https://expo.io/)
-- Frontend Web em [React](https://pt-br.reactjs.org/)
-
 ### Demos
 
 Frontend Web            |  Mobile
 :-------------------------:|:-------------------------:
 ![](/demos/frontend.gif)  |  ![](/demos/mobile.gif)
+
+### Tecnologias usadas
+- Backend em [Node.js](https://nodejs.org/en/)
+- Mobile em [React Native](https://reactnative.dev/) e [Expo](https://expo.io/)
+- Frontend Web em [React](https://pt-br.reactjs.org/)
 
 ### Licença
 
